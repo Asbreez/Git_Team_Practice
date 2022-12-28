@@ -9,4 +9,6 @@ public class HomePage {
     //real life settings
 
     // we are doing this
+
+    // photos added
 }
