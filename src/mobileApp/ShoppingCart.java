@@ -8,4 +8,6 @@ public class ShoppingCart {
 
     //total price
 
+    // price dropped items
+
 }
